@@ -8,7 +8,7 @@ A plugin for leaflet to load echarts3 map and Make big data visualization easier
 
 ## 使用方法
 
-#### 暂不开源，后期完善之后会开放源码，目前给出压缩版供大家使用，后期补上源码和教程，不介意不完美的童鞋可以直接使用dist目录打包压缩好的代码，包含echarts、leaflet、jquery、china.js以及我写的插件的源码的合并，引用这个就不需要再次引用echarts、leaflet、jquery了。
+#### 暂不开源，后期完善之后会开放源码，目前给出压缩版供大家使用，后期补上源码和教程，不介意不完美的童鞋可以直接使用dist目录打包压缩好的代码，包含echarts3完整包、leaflet、jquery、china.js以及我写的插件的源码的合并，引用这个就不需要再次引用echarts3、leaflet、jquery了。
 
 ## 截图示例
 ![](https://raw.githubusercontent.com/wandergis/leaflet-echarts3/master/examples/demo1.gif)
