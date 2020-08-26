@@ -1,7 +1,7 @@
 # leaflet-echarts3
-A plugin for leaflet to load echarts3 map and Make big data visualization easier.
+A plugin for leaflet to load Apache ECharts (incubating) 3 map and Make big data visualization easier.
 
-> 百度正式推出了echarts3，配色蛮好的就想着能不能像之前扩展一样去扩展下支持leaflet和ArcGIS JS API,不幸发现整个echarts3跟2的代码结构和实现上变化很大，啃了好几个小时的源码，终于做出了第一版的leaflet版本的echarts插件，后续会继续完善和推出ArcGIS版本的，认为对大家有帮助的请加star。
+> 百度正式推出了Apache ECharts (incubating) 3，配色蛮好的就想着能不能像之前扩展一样去扩展下支持leaflet和ArcGIS JS API,不幸发现整个echarts3跟2的代码结构和实现上变化很大，啃了好几个小时的源码，终于做出了第一版的leaflet版本的echarts插件，后续会继续完善和推出ArcGIS版本的，认为对大家有帮助的请加star。
 
 
 ## [在线访问demo1](http://wandergis.github.io/leaflet-echarts3/examples/index.html)
